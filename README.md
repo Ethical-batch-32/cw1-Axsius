@@ -19,3 +19,6 @@ pass: anish123
 #admin_details
 username: admin
 password: 111
+
+#Database
+Creat a database " food_db " and then import the file " food_db.sql " in that database.
